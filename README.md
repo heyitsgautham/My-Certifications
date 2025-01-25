@@ -19,6 +19,7 @@ This repository serves as a centralized location to store and showcase my profes
 
 Below is a table of my earned certificates:
 
+
 ## CERTIFICATES
 
 | Certificate Name | Issuing Organization | Link |
@@ -31,6 +32,7 @@ Below is a table of my earned certificates:
 | SQL (Intermediate) | HackerRank | [Certificate](https://www.hackerrank.com/certificates/c245517dbe9e) |
 | Introduction to IoT | NPTEL | [Certificate](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS35S85340239230506012) |
 | Foundational Level - Data Science and Programming | CODE IIT Madras | [Certificate]() |
+
 
 ## GOOGLE CLOUD SKILLS BOOST CERTIFICATES
 
@@ -54,6 +56,16 @@ Below is a table of my earned certificates:
 | Prompt Design in Vertex AI | [Certificate](https://www.cloudskillsboost.google/public_profiles/d80160d2-86d8-4b55-82e1-c02fcedf7e3b/badges/12869465) |
 | Develop GenAI Apps with Gemini and Streamlit | [Certificate](https://www.cloudskillsboost.google/public_profiles/d80160d2-86d8-4b55-82e1-c02fcedf7e3b/badges/12871345) |
 | Diwali in The Arcade | [Badge](https://www.cloudskillsboost.google/public_profiles/d80160d2-86d8-4b55-82e1-c02fcedf7e3b/badges/12886121) |
+
+## PROJECTS
+
+| Project | Description | Link |
+|-----------------|-------------------|-------------------|
+| Traffic Men | A web-based project aimed at enhancing traffic management through real-time data visualization with historic data through optimized scheduling and routing using ML model. | [Github](https://github.com/heyitsgautham/traffic-men) [Website](https://kishoreb.xyz/traffic-men.github.io/)  |
+| Earthquake Data Analysis | A comprehensive data analytical report focusing on earthquake monitoring, historical data analysis, and predictive ML model to aid disaster management and response planning. | [Github](https://github.com/heyitsgautham/Earthquake-Data-Analysis/blob/main/README.md)      [ML-1](https://colab.research.google.com/drive/1jk6S14j2MH2EYSf1CS7_MgkDeSE30Q7L#scrollTo=1o9B7cmztBz7) [ML-2](https://colab.research.google.com/drive/1NTSwlnJpMHsa6nAXwRCpV8hfS_RWaULT) |
+
+
+
 
 
 
